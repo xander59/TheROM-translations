@@ -27,7 +27,7 @@
 	<string name="title_show_brightness_slider">Deslizador de Brillo</string>
 
 	<!-- tonyp minfree -->
-	<string name="pref_tonyp_minfree_title">Optimizaciones de memoria de Tonyp</string>
+	<string name="pref_tonyp_minfree_title">Optimizaciones de memoria</string>
 	<string name="pref_tonyp_minfree_summary">Optimiza la administración de memoria para minimizar retardos. Desactive la casilla para volver al comportamiento predefinido (requiere reinicio)</string>
 
 	<!-- Custom carrier -->
@@ -168,14 +168,14 @@
 	<string name="alert_reboot_message">Este cambio necesita un reinicio para ser aplicado. ¿Quiere reiniciar ahora?</string>
 
 	<!-- Donate -->
-	<string name="donate_tonyp_title">Donar</string>
+	<string name="donate_tonyp_title">Donar a tonyp</string>
 	<string name="donate_tonyp_summary">Si te gusta mi trabajo considera mostrar tu apoyo donando</string>
 	<string name="donate_link" formatted="false">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick\u0026hosted_button_id=RL7NJSUDNQNZU</string>
 
 	<!-- Brightness Slider -->
-	<string name="show_brightness_slider_dont">No mostrar</string>
-	<string name="show_brightness_slider_above">Sobre las cintas</string>
-	<string name="show_brightness_slider_below">Debajo de las cintas</string>
+	<string name="show_brightness_slider_dont">Desactivar</string>
+	<string name="show_brightness_slider_above">Mostrar (sobre las cintas)</string>
+	<string name="show_brightness_slider_below">Mostrar (debajo de las cintas)</string>
 
 	<!--  Advanced low battery indicator -->
 	<string name="pref_low_battery_warning_policy_title">Advertencia de batería baja</string>
