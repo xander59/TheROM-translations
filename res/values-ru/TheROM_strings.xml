@@ -18,7 +18,7 @@
     <!-- TheROM settings -->
     <string name="tonyp_settings_title">Настройки TheROM settings</string>
     <string name="display_hybrid_options_title">HYBRID</string>
-    <string name="display_notifications_options_title">УВДОМЛЕНИЯ</string>
+    <string name="display_notifications_options_title">УВЕДОМЛЕНИЯ</string>
     <string name="display_statusbar_options_title">СТРОКА СОСТОЯНИЯ И ШТОРКА</string>
     <string name="display_various_options_title">РАЗНОЕ</string>
     <string name="display_donate_options_title">ПОДДЕРЖАТЬ &lt;3</string>
@@ -33,7 +33,7 @@
 
     <!-- Custom carrier -->
     <string name="custom_carrier_label_title">Своё название оператора</string>
-    <string name="custom_carrier_label_explain">Введите новую надпись. Отсутсвие текста возвратить заводскую надпись.</string>
+    <string name="custom_carrier_label_explain">Введите новую надпись. Отсутствие текста возвратит заводскую надпись.</string>
     <string name="custom_carrier_label_notset">Собственное название оператора не задано</string>
 
     <!-- Color Picker -->
@@ -51,27 +51,27 @@
     <string name="app_halo_label_black">Чёрный список уведомлений HALO</string>
     <string name="app_halo_label_white">Белый список уведомлений HALO</string>
 
-    <string name="halo_settings_title">Опции Halo</string>
-    <string name="halo_behavior_title">Окружение Halo</string>
-    <string name="halo_hide_title">Скрыть Halo после активности</string>
-    <string name="halo_hide_summary">Halo будет появляться для входящих задач и исчезать спустя некоторое время</string>
-    <string name="halo_reversed_title">Отразить Halo</string>
+    <string name="halo_settings_title">Опции HALO</string>
+    <string name="halo_behavior_title">Окружение HALO</string>
+    <string name="halo_hide_title">Скрыть HALO после активности</string>
+    <string name="halo_hide_summary">HALO будет появляться для входящих задач и исчезать спустя некоторое время</string>
+    <string name="halo_reversed_title">Отразить HALO</string>
     <string name="halo_reversed_summary">Применяется для переключения задач и жестов</string>
-    <string name="halo_state_title">Политика Halo</string>
+    <string name="halo_state_title">Политика HALO</string>
     <string name="halo_state_summary">Включает чёрный и белый списки уведомлений</string>
     <string name="halo_state_black">Чёрный список</string>
     <string name="halo_state_white">Белый список</string>
     <string name="halo_pause_title">Пауза активного приложения</string>
-    <string name="halo_pause_summary">При открытии приложения в Halo основное приложение будет приостановлено</string>
+    <string name="halo_pause_summary">При открытии приложения в HALO основное приложение будет приостановлено</string>
     <string name="halo_ninja_title">Режим ниндзя</string>
-    <string name="halo_ninja_summary">Halo будет исчезать полностью при остутствии уведомлений</string>
+    <string name="halo_ninja_summary">HALO будет исчезать полностью при остутствии уведомлений</string>
     <string name="halo_notification_msgbox_title">Включить поп-ап сообщений</string>
     <string name="halo_notification_msgbox_summary">Показывать окно входящего сообщения</string>
-    <string name="halo_unlock_ping_title">Пинг при разблокироваке</string>
-    <string name="halo_unlock_ping_summary">Halo будет выглядывать при разблокировке если были получены сообщения</string>
+    <string name="halo_unlock_ping_title">Пинг при разблокировке</string>
+    <string name="halo_unlock_ping_summary">HALO будет появляться при разблокировке если были получены сообщения</string>
 
-    <string name="halo_size_title">Размер Halo</string>
-    <string name="halo_size_summary">Определяет насколько большим должен быть Halo</string>
+    <string name="halo_size_title">Размер HALO</string>
+    <string name="halo_size_summary">Определяет насколько большим должен быть HALO</string>
     <string name="halo_size_miniscule">Крошечный</string>
     <string name="halo_size_small">Маленький</string>
     <string name="halo_size_default">Обычный</string>
@@ -80,14 +80,14 @@
     <string name="halo_size_monster">Монстр</string>
 
     <string name="halo_notification_count_title">Счётчик уведомлений</string>
-    <string name="halo_notification_count_summary">Отображать количество уведомлений в Halo</string>
+    <string name="halo_notification_count_summary">Отображать количество уведомлений в HALO</string>
     <string name="halo_notification_count_none">Нет</string>
     <string name="halo_notification_count_total">Всего</string>
     <string name="halo_notification_count_individual">По приложениям</string>
     <string name="halo_notification_count_both">Оба</string>
 
     <string name="halo_msgbox_animation_title">Анимация окна сообщения</string>
-    <string name="halo_msgbox_animation_summary">Анимация окна сообщения Halo для входящих уведомлений</string>
+    <string name="halo_msgbox_animation_summary">Анимация окна сообщения HALO для входящих уведомлений</string>
     <string name="halo_msgbox_animation_none">Нет</string>
     <string name="halo_msgbox_animation_flip">Переворот</string>
 
@@ -99,7 +99,7 @@
 
     <!-- Home screen widgets -->
     <string name="home_screen_widgets_title">Виджеты домашнего экрана</string>
-    <string name="home_screen_widgets_summary">Разрешить добавление виджетов с домашенго экрана на экран блокировки</string>
+    <string name="home_screen_widgets_summary">Разрешить добавление виджетов с домашнего экрана на экран блокировки</string>
 
     <!-- Hybrid -->
     <string name="uimode_title">Режим интерфейса</string>
@@ -129,7 +129,7 @@
     <string name="dpi_group_title">Группа DPI</string>
     <string name="dpi_groups_apps">приложения</string>
     <string name="dpi_group_add_app">Добавить приложение</string>
-    <string name="dpi_group_app_list">Сприсок приложений</string>
+    <string name="dpi_group_app_list">Список приложений</string>
     <string name="dpi_group_alert_add_app_title">Выбрать приложение</string>
     <string name="dpi_groups_alert_remove_app">Убрать приложение</string>
     <string name="dpi_groups_remove_app">Убрать приложение %s из группы?</string>
@@ -151,7 +151,7 @@
     <string name="custom_dpi">Текущий DPI:</string>
     <string name="customdpigroup_group_exists">Выбранная собственная группа DPI уже существует.</string>
     <string name="per_app_layout_title">Раскладка по приложениям</string>
-    <string name="per_app_layout_summary">Определить раксладку для каждого приложения</string>
+    <string name="per_app_layout_summary">Определить раскладку для каждого приложения</string>
     <string name="per_app_layout_list_title">Список приложений</string>
     <string name="per_app_layout_alert_title">Выбрать раскладку</string>
     <string name="widgets_title">Виджеты</string>
@@ -197,10 +197,10 @@
     <string name="ad_text_title">Текст уведомления</string>
     <string name="ad_text_summary">Показывать текст уведомления вкруг кольца.</string>
     <string name="ad_all_notifications_title">Все уведомления</string>
-    <string name="ad_all_notifications_summary">Показывать все уведомления, в том чисте исходящие, не отфильтрованные уведомления.</string>
+    <string name="ad_all_notifications_summary">Показывать все уведомления, в том числе постоянные, не отфильтрованные уведомления.</string>
     <string name="ad_pocket_mode_title">Карманный режим</string>
     <string name="ad_pocket_mode_summary">Показывать уведомления активного дисплея когда устройство извлекается из кармана.</string>
-    <string name="ad_redisplay_title">Перепоказывать уведомления</string>
+    <string name="ad_redisplay_title">Показывать уведомления повторно</string>
     <string name="ad_customizations_title">Настройки</string>
     <string name="ad_brightness_title">Яркость уведомлений</string>
     <string name="ad_brightness_summary">Уровень яркости для отображения уведомлений, когда отключена автоматическая яркость.</string>
@@ -303,7 +303,7 @@
     <string name="wallpaper_intra_open_title">Анимация открытия недавних страниц</string>
     <string name="wallpaper_intra_close_title">Анимация закрытия недавних страниц</string>
     <string name="animation_duration_title">Длительность анимации</string>
-    <string name="title_animation_no_override">Предотвратить изменение приложений</string>
+    <string name="title_animation_no_override">Предотвратить изменение приложениями</string>
     <string name="summary_animation_no_override">Предотвратить изменение переходов приложениями.</string>
     <string name="animation_duration_default">По-умолчанию</string>
     <string name="header_summary_animation">@null</string>
