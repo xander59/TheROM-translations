@@ -39,8 +39,8 @@
     <!-- Color Picker -->
     <string name="dialog_color_picker">Selecção de côres</string>
     <string name="press_color_to_apply">Escolha a cor a aplicar</string>
-    <string name="arrow_right">?</string>
-    <string name="arrow_down">?</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#FF000000</string>
     <string name="set">Set</string>
