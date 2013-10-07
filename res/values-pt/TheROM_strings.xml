@@ -62,7 +62,7 @@
     <string name="halo_state_black">Lista de exclusão</string>
     <string name="halo_state_white">Lista de permissão</string>
     <string name="halo_pause_title">Suspender aplicação activa</string>
-    <string name="halo_pause_summary">Suspender o aplicativo de fundo ao abrir o HALO>
+    <string name="halo_pause_summary">Suspender o aplicativo de fundo ao abrir o HALO</string>
     <string name="halo_ninja_title">Modo Ninja</string>
     <string name="halo_ninja_summary">Ocultar HALO quando vazio</string>
     <string name="halo_notification_msgbox_title">Permitir pop-up de messagens</string>
@@ -169,7 +169,7 @@
     <string name="alert_reboot_message">Esta alteração necessita de reinicialização de forma a ser aplicada. Reinicializar agora?</string>
 
     <!-- Donate -->
-    <string name="donate_tonyp_title">Doar/string>
+    <string name="donate_tonyp_title">Doar</string>
     <string name="donate_tonyp_summary">Se gosta do meu trabalho mostre a sua apreciação doando</string>
     <string name="donate_link" formatted="false">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick\u0026hosted_button_id=RL7NJSUDNQNZU</string>
 
