@@ -306,6 +306,6 @@
     <string name="title_animation_no_override">Empecher que l\'application soit prioritaire</string>
     <string name="summary_animation_no_override">Empecher les transitions des applications prioritaires.</string>
     <string name="animation_duration_default">Defaut</string>
-    <string name="header_summary_animation">@Invalide</string>
+    <string name="header_summary_animation">@null</string>
 
 </resources>
