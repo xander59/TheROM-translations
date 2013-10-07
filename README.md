@@ -3,6 +3,9 @@ TheROM-translations
 
 Place the translations into the correct subfolder for your language and send me a pull request.
 
+Make sure you validate the XML file before sending it to me!
+    http://validator.w3.org/
+
 Supported languages:
 - values-af
 - values-am
